@@ -1,5 +1,4 @@
-# PrAng
-Anger Detection in Speech
+# Anger Detection in Speech
 
 * Audio, .csv files, venv for PyCharm and openSMILE could be downloaded from Google Drive: https://drive.google.com/open?id=1aKePojoILkyVTnx-SC_GMAgmBzTZRONb
 * Unrar each archive in the root folder of the project.

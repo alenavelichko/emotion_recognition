@@ -5,8 +5,7 @@
 
 # Rars:
 * audio_features.rar - extracted features
-* Audio_ang.rar - audio data for anger emotion
-* Audio_neut.rar - audio data for neutral emotion
+* extracted_audio.rar - etracted audio data (7 emotions) 
 * Audio.rar - original dataset
 * openSMILE-2.1.0.rar - installed openSMILE
 * venv.rar - venv for PyCharm

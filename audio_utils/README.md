@@ -4,7 +4,7 @@
 * Unrar each archive in the root folder of the project.
 
 # Rars:
-* ang_and_neut_features.rar - extracted features
+* audio_features.rar - extracted features
 * Audio_ang.rar - audio data for anger emotion
 * Audio_neut.rar - audio data for neutral emotion
 * Audio.rar - original dataset
